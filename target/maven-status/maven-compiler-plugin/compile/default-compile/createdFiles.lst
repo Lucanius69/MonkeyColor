@@ -1,0 +1,16 @@
+me\lucanius\chatcolor\utils\menu\Menu.class
+me\lucanius\chatcolor\utils\ItemBuilder.class
+me\lucanius\chatcolor\utils\menu\Button.class
+me\lucanius\chatcolor\managers\MenuManager.class
+me\lucanius\chatcolor\MonkeyColor.class
+me\lucanius\chatcolor\player\PlayerData.class
+me\lucanius\chatcolor\managers\MongoManager.class
+me\lucanius\chatcolor\utils\menu\Menu$1.class
+me\lucanius\chatcolor\menu\ChatColorMenu.class
+me\lucanius\chatcolor\utils\menu\Button$1.class
+me\lucanius\chatcolor\commands\MonkeyColorCommand.class
+me\lucanius\chatcolor\menu\buttons\ResetChatColorButton.class
+me\lucanius\chatcolor\utils\CC.class
+me\lucanius\chatcolor\menu\buttons\ChatColorButton.class
+me\lucanius\chatcolor\listeners\PlayerListener.class
+me\lucanius\chatcolor\managers\PlayerManager.class

@@ -1,0 +1,5 @@
+name: MonkeyColor
+version: 1.0
+main: me.lucanius.chatcolor.MonkeyColor
+authors:
+  - Lucanius
